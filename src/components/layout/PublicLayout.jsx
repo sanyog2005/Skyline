@@ -120,7 +120,7 @@ export default function PublicLayout() {
               © 2026 Skyline Real Estate Platform. All rights reserved.
             </p>
             <p className="text-sm flex items-center gap-1 text-slate-600">
-              Powered by <span className="text-blue-500 font-semibold">AI Arbitrage</span>
+              Created by <span className="text-blue-500 font-semibold">Sanyog Sharma</span>
             </p>
           </div>
         </div>
